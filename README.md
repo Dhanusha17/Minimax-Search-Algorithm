@@ -1,6 +1,7 @@
+# Name:DHANUSHA K       
+# Register Number: 212223040034   
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:DHANUSHA K        </h3>
-<h3>Register Number:  212223040034     </h3>
+  
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
